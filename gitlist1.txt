@@ -4,3 +4,6 @@ This will be our 3rd committed file.
 We are going to perform a second merge process
 
 
+We will also add a third line of code
+
+
