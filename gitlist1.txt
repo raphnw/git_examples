@@ -1,3 +1,5 @@
 Hi,
 This will be our 3rd committed file.
+We are going to perform a second merge process
+
 
